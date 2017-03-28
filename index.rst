@@ -3,13 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Duke Linear Boltzmann Model for Heavy Quarks
+Duke Heavy Quark Transport Projects
 =================================================================================
 
 .. toctree::
    :maxdepth: 2
       
    Installation
+   Usage
    Physics
    Tests 
 
