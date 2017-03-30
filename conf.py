@@ -53,7 +53,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Duke Linear Boltzmann Model for Heavy Quarks'
+project = u'Duke Heavy Quark Transport Project'
 copyright = u'2016, Weiyao Ke, Yingru Xu, Steffen A. Bass'
 author = u'Weiyao Ke, Yingru Xu, Steffen A. Bass'
 
@@ -108,7 +108,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'DukeLinearBoltzmannModelforHeavyQuarksdoc'
+htmlhelp_basename = 'DukeHeavyQuarkProjectdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -135,7 +135,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'DukeLinearBoltzmannModelforHeavyQuarks.tex', u'Duke Linear Boltzmann Model for Heavy Quarks Documentation',
+    (master_doc, 'DukeHeavyQuarkProject.tex', u'Duke Heavy Quark Transport Project Documentation',
      u'Weiyao Ke, Yingru Xu, Steffen A. Bass', 'manual'),
 ]
 
@@ -145,7 +145,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'dukelinearboltzmannmodelforheavyquarks', u'Duke Linear Boltzmann Model for Heavy Quarks Documentation',
+    (master_doc, 'dukeHeavyQuarkProject', u'Duke Heavy Quark Transport Project',
      [author], 1)
 ]
 
@@ -156,7 +156,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'DukeLinearBoltzmannModelforHeavyQuarks', u'Duke Linear Boltzmann Model for Heavy Quarks Documentation',
+    (master_doc, 'DukeHeavyQuarkProject', u'Duke Heavy Quark Transport Project Documentation',
      author, 'DukeLinearBoltzmannModelforHeavyQuarks', 'One line description of project.',
      'Miscellaneous'),
 ]
